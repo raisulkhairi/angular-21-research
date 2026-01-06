@@ -17,3 +17,5 @@ class myClass {
 const myInstance = new myClass();
 
 console.log(myInstance.myField);
+
+// this commit feature 1
