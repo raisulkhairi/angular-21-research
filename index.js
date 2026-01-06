@@ -19,3 +19,4 @@ const myInstance = new myClass();
 console.log(myInstance.myField);
 
 // this commit feature 1
+// this commit feature 2
